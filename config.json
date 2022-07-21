@@ -2,5 +2,5 @@
   "disableOnboarding": false,
   "disableClosePurchase": false,
   "goMainChromecast": false,
-  "purchaseToFindDevice": false
+  "purchaseToFindDevice": true
 }
