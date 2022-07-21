@@ -1,5 +1,6 @@
 { 
   "disableOnboarding": false,
   "disableClosePurchase": false,
-  "goMainChromecast": false
+  "goMainChromecast": false,
+  "purchaseToFindDevice": false
 }
