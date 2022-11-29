@@ -2,5 +2,5 @@
   "disableOnboarding": false,
   "disableClosePurchase": false,
   "goMainAllShareCast": false,
-  "purchaseToFindDevice": false
+  "purchaseToFindDevice": true
 }
